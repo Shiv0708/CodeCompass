@@ -1,0 +1,6 @@
+{
+  "name": "CodeCompass - DSA Practice & Placement Readiness",
+  "description": "Personalized DSA practice tracker, weakness detector, spaced repetition revision planner, and interview readiness platform for coding placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
